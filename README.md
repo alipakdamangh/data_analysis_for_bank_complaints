@@ -50,7 +50,7 @@ The data for this analysis was sourced from Maven Analytics. It includes details
 
 [Ali Pakdaman] - [mail.alipakdaman@gmail.com]
 
-Project Link: 
+Project Link: (https://github.com/alipakdamangh/data_analysis_for_bank_complaints)
 
 ## Contact the original researcher
 
